@@ -1,0 +1,12 @@
+html snippets
+html css support
+jquery code snippets
+beautify
+color picker
+path intellisense
+open in brouser
+live server
+vscode-icons
+dracula official(ctrl shift + p)
+vetur
+php intellisense
